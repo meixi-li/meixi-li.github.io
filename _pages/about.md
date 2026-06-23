@@ -15,4 +15,4 @@ My research interests include:
 - Mathematical Imaging
 - Clustering Algorithms
 
-I am advised by Prof. Sung Ha Kang.
+I am advised by [Prof. Sung Ha Kang](https://kang.math.gatech.edu/).
