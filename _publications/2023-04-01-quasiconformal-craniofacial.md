@@ -1,6 +1,7 @@
 ---
 title: "A Quasiconformal-Based Geometric Model for Craniofacial Analysis and Its Application"
 collection: publications
+category: journal
 permalink: /publication/2023-quasiconformal-craniofacial
 date: 2023-04-01
 venue: 'Axioms'
