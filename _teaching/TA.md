@@ -8,12 +8,12 @@ date: 2025-01-01
 ---
 
 ###
-**Georgia Institute of Technology**
+**Georgia Institute of Technology
 
 - Spring 2025: Introduction to Linear Algebra (MATH1553)
 - Summer 2025: Multivariable Calculus (MATH2551)
 - Fall 2025: Linear Algebra (MATH1554)
-- Spring 2026: Multivariable Calculus (MATH2551)
+- Spring 2026: Multivariable Calculus (MATH2551)**
 
 Responsibilities:
 - Led studios
